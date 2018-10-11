@@ -10,7 +10,7 @@ We are working together to learn from good frameworks.
 
 ## help
 
-[ÖÐÎÄ](README-zh.md)ËµÃ÷
+[中文](README-zh.md)说明
 
 
 ## What are the functions of Summer?
