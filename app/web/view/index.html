@@ -1,0 +1,8 @@
+{config_load file="dev.conf" section="setup"}
+{include file="header.html" title=foo}
+
+{if #bold#}<b>{/if}
+    Title: {#title#|capitalize}
+    {if #bold#}</b>{/if}
+
+{include file="footer.html"}
