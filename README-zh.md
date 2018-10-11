@@ -1,49 +1,49 @@
 ![Summer](summer-logo.jpg)
-##SummerÊÇÊ²Ã´?
-Ò»¸ö¸ßÐ§µÄPHP¿ª·¢¿ò¼Ü
+## Summeræ˜¯ä»€ä¹ˆ?
+ä¸€ä¸ªé«˜æ•ˆçš„PHPå¼€å‘æ¡†æž¶
 
-ÎÒÃÇÒ»ÖÂÔÚÅ¬Á¦ÏòÓÅÐãµÄ¿ò¼ÜÑ§Ï°
+æˆ‘ä»¬ä¸€è‡´åœ¨åŠªåŠ›å‘ä¼˜ç§€çš„æ¡†æž¶å­¦ä¹ 
 
-##°ïÖú
-[Ó¢ÎÄ](README.md "Ó¢ÎÄ")ËµÃ÷
+## å¸®åŠ©
+[è‹±æ–‡](README.md "è‹±æ–‡")è¯´æ˜Ž
 
-##SummerÓÐÄÄÐ©¹¦ÄÜ£¿
+## Summeræœ‰å“ªäº›åŠŸèƒ½ï¼Ÿ
 
-* ·½±ãµÄ`Êý¾Ý¿â`Ö§³Ö
-    *  ÎÞÐè¹Ø×¢µ×²ãÊý¾Ý¿â½»»¥£¬Í³Ò»CRUDÖ´ÐÐ·½·¨
-    *  Ö§³ÖSQLServer¡¢MYSQL¡¢ORACLE¡¢DB2¡¢Sybase
-* ´øÓÐ`ÊÐ³¡²å¼þ`£¬Ãâ·ÑÔÚÊÐ³¡°²×°ËùÐè×é¼þ
-* `¿ª·¢±ã½Ý`Ö§³Ö£¬·½±ãPHPÐÂÊÖ¿ìËÙÉÏÊÖ
-* Ç¿´óµÄ`Â·ÓÉ`¹¦ÄÜ£¬·½±ã¶¨ÖÆ×Ô¼ºµÄÂ·ÓÉ
-* ÓÐÊýÁ¿Ò²ÓÐÖÊÁ¿µÄ`Ö÷Ìâ`,±à¼­Æ÷ºÍÔ¤ÀÀÇøÓò
-* ÍêÃÀ¼æÈÝ`Github`µÄmarkdownÓï·¨
-* ´úÂë±à¼­Ô¤ÀÀÇøÓò`´úÂë¸ßÁÁ`
-* ËùÓÐÑ¡Ïî×Ô¶¯¼ÇÒä
+* æ–¹ä¾¿çš„`æ•°æ®åº“`æ”¯æŒ
+    *  æ— éœ€å…³æ³¨åº•å±‚æ•°æ®åº“äº¤äº’ï¼Œç»Ÿä¸€CRUDæ‰§è¡Œæ–¹æ³•
+    *  æ”¯æŒSQLServerã€MYSQLã€ORACLEã€DB2ã€Sybase
+* å¸¦æœ‰`å¸‚åœºæ’ä»¶`ï¼Œå…è´¹åœ¨å¸‚åœºå®‰è£…æ‰€éœ€ç»„ä»¶
+* `å¼€å‘ä¾¿æ·`æ”¯æŒï¼Œæ–¹ä¾¿PHPæ–°æ‰‹å¿«é€Ÿä¸Šæ‰‹
+* å¼ºå¤§çš„`è·¯ç”±`åŠŸèƒ½ï¼Œæ–¹ä¾¿å®šåˆ¶è‡ªå·±çš„è·¯ç”±
+* æœ‰æ•°é‡ä¹Ÿæœ‰è´¨é‡çš„`ä¸»é¢˜`,ç¼–è¾‘å™¨å’Œé¢„è§ˆåŒºåŸŸ
+* å®Œç¾Žå…¼å®¹`Github`çš„markdownè¯­æ³•
+* ä»£ç ç¼–è¾‘é¢„è§ˆåŒºåŸŸ`ä»£ç é«˜äº®`
+* æ‰€æœ‰é€‰é¡¹è‡ªåŠ¨è®°å¿†
 
-##ÓÐÎÊÌâ·´À¡
-ÔÚÊ¹ÓÃÖÐÓÐÈÎºÎÎÊÌâ£¬»¶Ó­·´À¡¸øÎÒ£¬¿ÉÒÔÓÃÒÔÏÂÁªÏµ·½Ê½¸úÎÒ½»Á÷
+## æœ‰é—®é¢˜åé¦ˆ
+åœ¨ä½¿ç”¨ä¸­æœ‰ä»»ä½•é—®é¢˜ï¼Œæ¬¢è¿Žåé¦ˆç»™æˆ‘ï¼Œå¯ä»¥ç”¨ä»¥ä¸‹è”ç³»æ–¹å¼è·Ÿæˆ‘äº¤æµ
 
-* ÓÊ¼þ(cn.qd.yt#gmail.com, °Ñ#»»³É@)
+* é‚®ä»¶(cn.qd.yt#gmail.com, æŠŠ#æ¢æˆ@)
 * QQ: 431910788
-* weibo: [@´úÂë¿é](http://weibo.com/happyonion)
+* weibo: [@ä»£ç å—](http://weibo.com/happyonion)
 * twitter: [@daimakuai](http://twitter.com/happyonion)
 
-##¾èÖú¿ª·¢Õß
-ÔÚÐËÈ¤µÄÇý¶¯ÏÂ,Ð´Ò»¸ö`Ãâ·Ñ`µÄ¶«Î÷£¬ÓÐÐÀÏ²£¬Ò²»¹ÓÐº¹Ë®£¬Ï£ÍûÄãÏ²»¶ÎÒµÄ×÷Æ·£¬Í¬Ê±Ò²ÄÜÖ§³ÖÒ»ÏÂ¡£
-µ±È»£¬ÓÐÇ®Åõ¸öÇ®³¡£¨ÓÒÉÏ½ÇµÄ°®ÐÄ±êÖ¾£¬Ö§³ÖÖ§¸¶±¦ºÍPayPal¾èÖú£©£¬Ã»Ç®Åõ¸öÈË³¡£¬Ð»Ð»¸÷Î»¡£
+## æåŠ©å¼€å‘è€…
+åœ¨å…´è¶£çš„é©±åŠ¨ä¸‹,å†™ä¸€ä¸ª`å…è´¹`çš„ä¸œè¥¿ï¼Œæœ‰æ¬£å–œï¼Œä¹Ÿè¿˜æœ‰æ±—æ°´ï¼Œå¸Œæœ›ä½ å–œæ¬¢æˆ‘çš„ä½œå“ï¼ŒåŒæ—¶ä¹Ÿèƒ½æ”¯æŒä¸€ä¸‹ã€‚
+å½“ç„¶ï¼Œæœ‰é’±æ§ä¸ªé’±åœºï¼ˆå³ä¸Šè§’çš„çˆ±å¿ƒæ ‡å¿—ï¼Œæ”¯æŒæ”¯ä»˜å®å’ŒPayPalæåŠ©ï¼‰ï¼Œæ²¡é’±æ§ä¸ªäººåœºï¼Œè°¢è°¢å„ä½ã€‚
 
-##¸Ð¼¤
-¸ÐÐ»ÒÔÏÂµÄÏîÄ¿,ÅÅÃû²»·ÖÏÈºó
+## æ„Ÿæ¿€
+æ„Ÿè°¢ä»¥ä¸‹çš„é¡¹ç›®,æŽ’åä¸åˆ†å…ˆåŽ
 
 * [mou](http://awzsr.com/) 
 * [ace](http://jblv.com/)
 * [jquery](http://jquery.com)
 
-##¹ØÓÚ×÷Õß
+## å…³äºŽä½œè€…
 
 ```javascript
   var daimakuai = {
-    nickName  : "Ñó´Ð",
+    nickName  : "æ´‹è‘±",
     site : "http://75271.com"
   }
 ```
